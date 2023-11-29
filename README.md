@@ -1,4 +1,4 @@
-# beemo-log-analyzer
+# Beemo Log Analyzer
 This small CLI tool allows you to see the time between joins in a Beemo raid log.
 
 C# implemenation of [this project](https://github.com/net-tech/beemo-join-time-diff/) by [@net-tech](https://github.com/net-tech)
